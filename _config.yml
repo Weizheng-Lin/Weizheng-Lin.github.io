@@ -3,3 +3,14 @@ theme: minima
 title: Weizheng Lin's Site
 description: My research and projects
 show_excerpts: true
+
+# 加入自訂 SCSS 的設定
+sass:
+  style: compressed
+  load_paths:
+    - _sass
+    - assets/css
+
+# 如果不需要 GitHub icon，可以將下方的 github 設定註解或移除
+social:
+  # github: https://github.com/yourusername
