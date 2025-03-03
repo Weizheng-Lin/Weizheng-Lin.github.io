@@ -2,8 +2,8 @@
 layout: home
 title: Welcome to My Site
 ---
-<header>
-        <h1> # Hello, I'm Weizheng Lin!<span id="typed"></span></h1>
+
+# Hello, I'm Weizheng Lin!
 
 
 #### Welcome to my personal website. Here, I share my research and projects.
