@@ -23,8 +23,8 @@ title: Welcome to My Site
 #### Lee, C. C., Wang, C. W., Lin, W., & Chen, E. J. (2025). Cyber risk and corporate share repurchases. International Review of Financial Analysis, 104232.
 #### Yang, X., Wang, C. W., Zhang, J., & Lin, W. (2025). Hometown CEOs and Greenwashing: From the Perspective of Energy Consumption. Economic Analysis and Policy.
 #### Lee, C. C., Wang, C. W., Hong, P. H., & Lin, W. (2024). Environmental policy stringency and bank risks: Does green economy matter?. International Review of Financial Analysis, 91, 103040.  
+
 ## Working paper 
- 
 ### From Green to Digital: Exploring the Role of Ecological Footprints on Cyber Defense   
 (Major revision in Energy Economics with CW Wang*, YJ Li, and JY Chen)  
 ### Natural Disasters and Corporate Dividend: International Evidence  
